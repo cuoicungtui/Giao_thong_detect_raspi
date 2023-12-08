@@ -1,0 +1,4 @@
+*.venv*
+*env*
+All_Model_detect/
+

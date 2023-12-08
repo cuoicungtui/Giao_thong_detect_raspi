@@ -1,0 +1,4 @@
+[submodule "TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi"]
+    path = TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi
+    url = https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi.git
+    branch = master
